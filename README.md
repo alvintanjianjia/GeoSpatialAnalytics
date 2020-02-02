@@ -17,7 +17,7 @@ Methodology is as listed below
 6. kepler.gl
 
 ### Sample
-![Route Usage Analysis based on POI]('sample_images/route_usage_poi.PNG')
+![Route Usage Analysis based on POI](/sample_images/route_usage_poi.PNG)
 
 
 I especially love Dota 2, but really bad at the game itself (hard stuck at crusader IV, just having fun with turbo games). I would like to contribute in making Dota 2 even better for everyone through data insights. Hopefully leading to more meta-changing patches. I am very interested in making Dota 2 more understandable and reachable to the general public as well, by developing more features that would allow casters and game analyst to better show what is happening within the game to viewers.
