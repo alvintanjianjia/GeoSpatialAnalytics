@@ -17,16 +17,16 @@ Methodology is as listed below
 6. kepler.gl
 
 ### Route Usage Sample
-1. Sample 1 with Geohash Labeling
+1. Sample 1 with Geohash Labeling<br/>
 ![Route Usage Analysis based on POI](/sample_images/route_usage_poi.PNG)
-2. Sample 2 Zoomed Out
+2. Sample 2 Zoomed Out<br/>
 ![Route Usage Analysis based on POI](/sample_images/route_usage_poi2.PNG)
 
 ### Route Calculation Sample (Shortest vs Least Jam Paths)
 1. Sample 1 
-Red refers to shortest path. Purple refers to least jam path.
+Red refers to shortest path. Purple refers to least jam path.<br/>
 ![Route Calculation based on POI](/sample_images/shortest_vs_least_jam.PNG)
 
 1. Sample 2 
-Red refers to shortest path. Purple refers to least jam path.
+Red refers to shortest path. Purple refers to least jam path.<br/>
 ![Route Calculation based on POI](/sample_images/shortest_vs_least_jam2.PNG)
