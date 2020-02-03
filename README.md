@@ -16,12 +16,17 @@ Methodology is as listed below
 5. Timeseries analysis.
 6. kepler.gl
 
-### Sample
+### Route Usage Sample
+1. Sample 1 with Geohash Labeling
 ![Route Usage Analysis based on POI](/sample_images/route_usage_poi.PNG)
+2. Sample 2 Zoomed Out
+![Route Usage Analysis based on POI](/sample_images/route_usage_poi2.PNG)
 
+### Route Calculation Sample (Shortest vs Least Jam Paths)
+1. Sample 1 
+Red refers to shortest path. Purple refers to least jam path.
+![Route Calculation based on POI](/sample_images/shortest_vs_least_jam.PNG)
 
-I especially love Dota 2, but really bad at the game itself (hard stuck at crusader IV, just having fun with turbo games). I would like to contribute in making Dota 2 even better for everyone through data insights. Hopefully leading to more meta-changing patches. I am very interested in making Dota 2 more understandable and reachable to the general public as well, by developing more features that would allow casters and game analyst to better show what is happening within the game to viewers.
-
-I am probably not the best in terms of hard programming and data science skills, but I am willing to put in the extra hours to catch up and learn.
-
-In my free time, I like to attend tech events such as hackathons and datathons as it provides a platform for me to learn new skills and exchange ideas with others.
+1. Sample 2 
+Red refers to shortest path. Purple refers to least jam path.
+![Route Calculation based on POI](/sample_images/shortest_vs_least_jam2.PNG)
